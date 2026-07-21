@@ -27,3 +27,35 @@ Mesmo com essa mudança, a paixão não morreu — só ficou mais rara. Quando e
 > **Programação é estilo de vida, é hobby, é trabalho e é paixão.**
 
 Um raro caso em que essas quatro dimensões coexistem sem se anular — trabalho não "matou" o hobby, e a chegada da IA não apagou a paixão, apenas mudou a forma como ela se expressa no dia a dia.
+
+---
+
+# My Passion for Programming
+
+*Summary of conversation — AI Fluency course exercise*
+
+## How it all started
+
+It all started with **curiosity**. A friend of mine had an RP server (FiveM/GTA RP), and even without knowing anything about programming, I was already very curious about the subject. I started poking around in a FiveM base I found on the internet, asked him some questions, and ended up joining the server's team. At first I only did configuration — no real coding yet — but that configuration work was what introduced me to the world of programming.
+
+## The leap into writing real code
+
+What made me take the next step was the **fascination** of seeing how code turned into a real user experience, something a person actually uses and feels on the screen. Alongside that, I've always been passionate about **mathematical logic**, which only reinforced this budding passion.
+
+The server needed new features, so I started researching, copying and pasting code, and gradually improving my learning in order to keep innovating. It was a gradual process, but a constant one.
+
+## The present: the arrival of AI
+
+Today reality has changed quite a bit. With AI, typing code by hand has become almost pointless in day-to-day work — I'd fall behind if I insisted on doing everything by typing manually. This brought a somewhat sad feeling: that emotion of watching code come to life line by line is now rarer.
+
+Today I see myself moving toward becoming more of an **architect**: instead of typing everything, I direct AI on what to do, knowing how to judge whether the result is good, safe, and well-made — something only possible because of all the foundation I built writing code hands-on over the years.
+
+## The passion that endures
+
+Even with this shift, the passion hasn't died — it's just become rarer. When I'm taking courses, I still choose to type code by hand, just for the feeling. I really enjoy seeing clean, well-made code, especially when it's made by me.
+
+## In one sentence
+
+> **Programming is a lifestyle, a hobby, a job, and a passion.**
+
+A rare case where these four dimensions coexist without canceling each other out — work didn't "kill" the hobby, and the arrival of AI didn't erase the passion, it just changed the way it shows up day to day.
